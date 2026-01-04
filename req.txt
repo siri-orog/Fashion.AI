@@ -1,0 +1,7 @@
+streamlit
+flask
+opencv-python
+numpy
+scikit-learn
+pillow
+colorthief
